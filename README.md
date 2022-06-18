@@ -16,10 +16,8 @@ to check the git status
 git status
 
 
-
 git log 
  
-
  to create version / commit all changes by git
 2.git commit -m "message"
 
