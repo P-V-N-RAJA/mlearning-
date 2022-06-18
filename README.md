@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 to add file to git
 1.git add .
-git add <file _nmae>
+git add <file _name>
 to ignor file or folder from git we can write name of filr/folder in gitignore file
 to check the git status
 git status
