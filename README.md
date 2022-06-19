@@ -32,3 +32,7 @@ git remote -v
 ''''
 python setup.py install
 ''''
+
+''''
+python app.py
+''''
