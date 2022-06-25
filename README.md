@@ -36,3 +36,8 @@ python setup.py install
 ''''
 python app.py
 ''''
+
+'''''''
+pip install ipykernal
+''''''
+
