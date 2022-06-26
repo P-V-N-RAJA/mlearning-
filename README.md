@@ -21,6 +21,10 @@ git log
  to create version / commit all changes by git
 2.git commit -m "message"
 
+or
+
+2.git commit -m "updated"
+
 to send version / chandge to github
 3.git push origin main
 
