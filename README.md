@@ -8,6 +8,10 @@ Creating conda environment
 ...
 pip install -r requirements.txt
 
+.............
+avinash project code link : https://github.com/avnyadav/machine_learning_project
+..............
+
 to add file to git
 1.git add .
 git add <file _name>
