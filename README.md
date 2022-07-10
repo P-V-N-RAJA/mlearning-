@@ -49,3 +49,12 @@ python app.py
 pip install ipykernal
 ''''''
 
+To setup CI/CD pipeline in heroku we need 3 information
+
+HEROKU_EMAIL = anishyadav7045075175@gmail.com
+HEROKU_API_KEY = <>
+HEROKU_APP_NAME = ml-regression-app
+
+
+Application url: HousingPredictor
+https://ml-regression-app.herokuapp.com/
